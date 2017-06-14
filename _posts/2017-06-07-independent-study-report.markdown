@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Remote Virtual Access to a Vehicle Using Ford’s OpenXC and Exploring Related Vehicle Security Vulnerabilities "
-date:   2017-06-07
-categories: technical paper
+layout:			post
+title: 			"Remote Virtual Access to a Vehicle Using Ford’s OpenXC and Exploring Related Vehicle Security Vulnerabilities"
+subtitle:		""
+date:   		2017-06-07
+header-img:		"img/mykonos-night.jpg"
 ---
 In the Summer of 2016, while still pursing my Masters degree, I joined a team of faculty, graduate
 and undergraduate students at the University of Maryland on the Ford Vehicle Security project. The goal 

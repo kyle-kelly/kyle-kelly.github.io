@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Automotive Security in the Digital Age: Vulnerabilities of the CAN Bus and Consideration of Future Architectures"
-date:   2017-05-23
-categories: technical paper
+layout:			post
+title:  		"Automotive Security in the Digital Age: Vulnerabilities of the CAN Bus and Consideration of Future Architectures"
+subtitle:		""
+date:   		2017-05-23
+header-img: 	"img/bangkok-night.jpg"
 ---
 As a graduation requirement for M.S. non-thesis, I wrote a scholarly paper which was reviewed and
 approved by two faculty members from the University of Maryland. The paper was to be ["a concise 

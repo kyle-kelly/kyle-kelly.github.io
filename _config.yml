@@ -1,15 +1,15 @@
 # Site settings
 title: Wild Pointer
-header-img: img/home-bg.jpg
+header-img: img/marakech-sahara.jpg
 email: kkelly.667@gmail.com
-copyright_name: Your/Project/Corporate Name
+#copyright_name: Your/Project/Corporate Name
 description: "A site to display past work, current projects and share thoughts on technical news and current events."
 baseurl: ""
 url: "http://kyle-kelly.githu.io"
-twitter_username: 
+#twitter_username: 
 github_username:  kyle-kelly
-facebook_username:  
-email_username:  
+#facebook_username:  
+#email_username:  
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
