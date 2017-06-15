@@ -5,6 +5,7 @@ subtitle:		"A quantitative statistical analysis of 12 movie reviewing publicatio
 date:   		2017-06-15
 header-img:		"img/mykonos-sunset.jpg"
 ---
+
 # Reviewing the reviewers
 
 A wise man once said, "Opinions are like assholes: they're all full of shit!" Or maybe that was an insane man...Either way, what are movie reviews but an opinion with a number attached? And it's my opinion that we've reached the review saturation point. Print publictions review movies. Bloggers review movies. Moviegoers review movies. Websites score movies based on users' scores of movies. There are more reviews than any one [sarlacc](https://en.wikipedia.org/wiki/Sarlacc) could swallow!
@@ -13,7 +14,7 @@ So the real questions is: who can we trust?...who's reviewing the reviewers?
 
 ![Alt]({{ site.url }}/img/watches-the-watchmen.jpg "Marketing image from the 2009 film 'Watchmen'")
 
-Well, today it's me. I'm reviewing the reviewers. But first I'll need to talk a bit about how movies are scored and where my data came from. Personally, I could talk about this all day, but some people might only care for the results. If you're one of those people, click [here](). Otherwise, come friend, let's argue about rating systems.
+Well, today it's me. I'm reviewing the reviewers. But first I'll need to talk a bit about how movies are scored and where my data came from. Personally, I could talk about this all day, but some people might only care for the results. If you're one of those people, click [here]({{ site.url }}/2017/06/15/reviewing-the-reviewers/#whos-the-best). Otherwise, come friend, let's argue about rating systems.
 
 ## One rating to rule them all
 
@@ -117,4 +118,4 @@ Going forward I plan to do a few more things with the dataset. It would also be 
 
 Anyway, if you've made it this far, thanks for reading. And if you enjoyed what you've read, then I speak to you the words of Doug Glatt...
 
-![Alt](https://i.imgur.com/QTl3RuG.gif "Seann William Scott is 'Goon'")
+![Alt](https://i.imgur.com/QTl3RuG.gif "Seann William Scott in 'Goon'")
