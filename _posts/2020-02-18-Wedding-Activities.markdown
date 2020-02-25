@@ -59,7 +59,10 @@ Sister restaurants serving up dank ramen in either [Chinatown](http://www.daikay
 A new-ish [restaurant](http://republic-cantina.com/) serving breakfast and dinner. Head over in the morning for breakfast tacos and a coffee, and come back later for the must-have fajitas, margaritas and pico-back shots. 
 
 #### Barcelona
-A [tapas bar](https://barcelonawinebar.com/location/14th-street/) with a nice patio. The evenings can be busy so call ahead for best results. 
+A [tapas bar](https://barcelonawinebar.com/location/14th-street/) with a nice patio. The evenings can be busy so call ahead for best results.
+
+#### Tiger
+[Tucked away](https://www.tigerforkdc.com/) in Shaw’s historic Blagden Alley, Tiger Fork offers playful, modern takes on Hong Kong street food, traditional dim sum, and classic Chinese dishes with global influence. Fried rice is V good. 
 
 ### Drink
 
@@ -86,3 +89,6 @@ Open-air [top floor](http://801dc.com/) is where it's at. Can get crowded in the
 
 #### Takoda
 Also an open-air [top floor](https://www.takodadc.com/), but the second floor is very hospitable too.
+
+#### Calico
+[Located](https://www.calicodc.com/) in Shaw’s Blagden Alley, Calico is an Urban backyard bar and restaurant, with easygoing drinks in a sceney patio & country-chic room.
