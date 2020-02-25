@@ -5,6 +5,7 @@ subtitle:		""
 date:   		2020-02-18
 header-img: 	"img/splash.jpg"
 ---
+\**Note: This is a work in progress and will be updated periodically.*
 
 ## Jump To
 
