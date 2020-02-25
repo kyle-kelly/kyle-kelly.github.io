@@ -62,7 +62,7 @@ A new-ish [restaurant](http://republic-cantina.com/) serving breakfast and dinne
 #### Barcelona
 A [tapas bar](https://barcelonawinebar.com/location/14th-street/) with a nice patio. The evenings can be busy so call ahead for best results.
 
-#### Tiger
+#### Tiger Fork
 [Tucked away](https://www.tigerforkdc.com/) in Shaw’s historic Blagden Alley, Tiger Fork offers playful, modern takes on Hong Kong street food, traditional dim sum, and classic Chinese dishes with global influence. Fried rice is V good. 
 
 ### Drink
